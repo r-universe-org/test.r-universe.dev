@@ -2,6 +2,22 @@
   {
     "package" : "curl",
     "url" : "https://github.com/jeroen/curl"
+  },
+  {
+    "package" : "sass",
+    "url" : "https://github.com/rstudio/sass"
+  },
+  {
+    "package" : "haven",
+    "url" : "https://github.com/tidyverse/haven"
+  },
+  {
+    "package": "RcppParallel",
+    "url" : "https://github.com/rcppcore/rcppparallel"
+  },
+  {
+    "package" : "RDieHarder",
+    "url" : "https://github.com/eddelbuettel/rdieharder"
   }
 ]
 
