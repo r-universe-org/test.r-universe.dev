@@ -18,6 +18,11 @@
   {
     "package" : "RDieHarder",
     "url" : "https://github.com/eddelbuettel/rdieharder"
+  },
+  {
+    "package": "stringdist",
+    "url": "https://github.com/markvanderloo/stringdist",
+    "subdir": "pkg"
   }
 ]
 
