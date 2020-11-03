@@ -23,11 +23,6 @@
     "package": "stringdist",
     "url": "https://github.com/markvanderloo/stringdist",
     "subdir": "pkg"
-  },
-  {
-    "package" : "arrow",
-    "url": "https://github.com/apache/arrow",
-    "subdir" : "r"
   }
 ]
 
