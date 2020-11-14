@@ -1,7 +1,13 @@
 [
   {
+    "package": "jose",
+    "url": "https://github.com/jeroen/jose",
+    "branch" : "v0.2"
+  },
+  {
     "package" : "curl",
-    "url" : "https://github.com/jeroen/curl"
+    "url" : "https://github.com/jeroen/curl",
+    "branch" : "v4.2"
   },
   {
     "package" : "sass",
@@ -25,4 +31,3 @@
     "subdir": "pkg"
   }
 ]
-
