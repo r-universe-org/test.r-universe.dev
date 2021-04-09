@@ -10,22 +10,6 @@
     "branch" : "v4.2"
   },
   {
-    "package" : "sass",
-    "url" : "https://github.com/rstudio/sass"
-  },
-  {
-    "package" : "haven",
-    "url" : "https://github.com/tidyverse/haven"
-  },
-  {
-    "package": "RcppParallel",
-    "url" : "https://github.com/rcppcore/rcppparallel"
-  },
-  {
-    "package" : "RDieHarder",
-    "url" : "https://github.com/eddelbuettel/rdieharder"
-  },
-  {
     "package": "stringdist",
     "url": "https://github.com/markvanderloo/stringdist",
     "subdir": "pkg"
