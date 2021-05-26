@@ -1,7 +1,8 @@
 [
   {
     "package": "jose",
-    "url": "https://github.com/jeroen/jose"
+    "url": "https://github.com/jeroen/jose",
+    "branch" : "*release"
   },
   {
     "package" : "curl",
