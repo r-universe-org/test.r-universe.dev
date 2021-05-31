@@ -13,5 +13,9 @@
     "package": "stringdist",
     "url": "https://github.com/markvanderloo/stringdist",
     "subdir": "pkg"
+  },
+  {
+    "package": "ggsegHO",
+    "url": "https://github.com/ggseg/ggsegHO"
   }
 ]
