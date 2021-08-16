@@ -1,7 +1,7 @@
 [
   {
     "package": "jose",
-    "url": "https://github.com/jeroen/jose",
+    "url": "https://github.com/r-lib/jose",
     "branch" : "*release"
   },
   {
@@ -17,5 +17,9 @@
   {
     "package": "ggsegHO",
     "url": "https://github.com/ggseg/ggsegHO"
+  },
+  {
+    "package": "hdf5r",
+    "url": "https://github.com/hhoeflin/hdf5r"
   }
 ]
