@@ -20,6 +20,7 @@
   },
   {
     "package": "hdf5r",
-    "url": "https://github.com/hhoeflin/hdf5r"
+    "url": "https://github.com/jeroen/hdf5r",
+    "branch" :"cranfix"
   }
 ]
