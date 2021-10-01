@@ -4,6 +4,15 @@
     "url": "https://github.com/jeroen/sys"
   },
   {
+    "package": "gmp",
+    "url": "https://github.com/cran/gmp"
+  },
+  {
+    "package": "Rmpfr",
+    "url": "https://github.com/r-forge/rmpfr",
+    "subdir": "pkg"
+  },
+  {
     "package": "jose",
     "url": "https://github.com/r-lib/jose",
     "branch" : "*release"
