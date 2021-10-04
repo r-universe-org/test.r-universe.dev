@@ -1,5 +1,9 @@
 [
   {
+    "package": "wrongname",
+    "url": "https://github.com/jeroen/jsonlite"
+  },
+  {
     "package": "sys",
     "url": "https://github.com/jeroen/sys"
   },
