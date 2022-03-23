@@ -1,5 +1,9 @@
 [
   {
+    "package":"rJava",
+    "url":"https://github.com/jeroen/rJava"
+  },
+  {
     "package": "wrongname",
     "url": "https://github.com/jeroen/jsonlite"
   },
