@@ -28,7 +28,7 @@
   {
     "package" : "curl",
     "url" : "https://github.com/jeroen/curl",
-    "branch" : "v4.2"
+    "branch" : "v4.3.2"
   },
   {
     "package": "stringdist",
