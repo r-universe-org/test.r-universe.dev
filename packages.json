@@ -8,8 +8,8 @@
     "url":"https://github.com/jeroen/luna"
   },
   {
-    "package":"lwgeom",
-    "url":"https://github.com/jeroen/lwgeom"
+    "package":"RcppParallel",
+    "url":"https://github.com/jeroen/RcppParallel"
   },
   {
     "package":"rJava",
