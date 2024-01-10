@@ -12,10 +12,6 @@
     "url":"https://github.com/jeroen/rJava"
   },
   {
-    "package": "wrongname",
-    "url": "https://github.com/jeroen/jsonlite"
-  },
-  {
     "package": "sys",
     "url": "https://github.com/jeroen/sys"
   },
@@ -46,10 +42,5 @@
   {
     "package": "ggsegHO",
     "url": "https://github.com/ggseg/ggsegHO"
-  },
-  {
-    "package": "hdf5r",
-    "url": "https://github.com/jeroen/hdf5r",
-    "branch" :"cranfix"
   }
 ]
