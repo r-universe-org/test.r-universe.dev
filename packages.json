@@ -1,5 +1,9 @@
 [
   {
+    "package" : "igraph",
+    "url" : "https://github.com/jeroen/rigraph"
+  },
+  {
     "package":"luna",
     "url":"https://github.com/jeroen/luna"
   },
