@@ -1,5 +1,13 @@
 [
   {
+    "package":"luna",
+    "url":"https://github.com/jeroen/luna"
+  },
+  {
+    "package":"lwgeom",
+    "url":"https://github.com/jeroen/lwgeom"
+  },
+  {
     "package":"rJava",
     "url":"https://github.com/jeroen/rJava"
   },
