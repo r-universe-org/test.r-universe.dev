@@ -8,8 +8,8 @@
     "url":"https://github.com/jeroen/luna"
   },
   {
-    "package":"RcppParallel",
-    "url":"https://github.com/jeroen/RcppParallel"
+    "package":"bayou",
+    "url":"https://github.com/jeroen/bayou"
   },
   {
     "package":"rJava",
