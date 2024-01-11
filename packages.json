@@ -1,5 +1,9 @@
 [
   {
+    "package" : "Rhdf5lib",
+    "url" : "https://github.com/jeroen/Rhdf5lib"
+  },
+  {
     "package" : "Rhtslib",
     "url" : "https://github.com/jeroen/Rhtslib"
   },
