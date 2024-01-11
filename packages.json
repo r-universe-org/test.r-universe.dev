@@ -1,5 +1,9 @@
 [
   {
+    "package" : "Rhtslib",
+    "url" : "https://github.com/jeroen/Rhtslib"
+  },
+  {
     "package" : "igraph",
     "url" : "https://github.com/jeroen/rigraph"
   },
