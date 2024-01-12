@@ -5,20 +5,12 @@
     "subdir" :  "apis/r"
   },
   {
-    "package" : "crc32c",
-    "url" : "https://github.com/jeroen/crc32c"
-  },
-  {
     "package" : "Rhdf5lib",
     "url" : "https://github.com/jeroen/Rhdf5lib"
   },
   {
     "package" : "Rhtslib",
     "url" : "https://github.com/jeroen/Rhtslib"
-  },
-  {
-    "package" : "igraph",
-    "url" : "https://github.com/jeroen/rigraph"
   },
   {
     "package":"luna",
