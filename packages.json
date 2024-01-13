@@ -9,6 +9,10 @@
     "url" : "https://github.com/jeroen/Rhdf5lib"
   },
   {
+    "package" : "mappoly",
+    "url" : "https://github.com/jeroen/MAPpoly"
+  },
+  {
     "package" : "audio",
     "url" : "https://github.com/jeroen/audio"
   },
