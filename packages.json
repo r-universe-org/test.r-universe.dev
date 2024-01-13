@@ -9,6 +9,10 @@
     "url" : "https://github.com/jeroen/Rhdf5lib"
   },
   {
+    "package" : "audio",
+    "url" : "https://github.com/jeroen/audio"
+  },
+  {
     "package" : "Rhtslib",
     "url" : "https://github.com/jeroen/Rhtslib"
   },
