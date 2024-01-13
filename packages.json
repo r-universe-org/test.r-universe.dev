@@ -13,6 +13,10 @@
     "url" : "https://github.com/jeroen/cubature"
   },
   {
+    "package" : "longears",
+    "url" : "https://github.com/jeroen/longears"
+  },
+  {
     "package" : "mappoly",
     "url" : "https://github.com/jeroen/MAPpoly"
   },
