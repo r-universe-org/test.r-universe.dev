@@ -9,6 +9,10 @@
     "url" : "https://github.com/jeroen/Rhdf5lib"
   },
   {
+    "package" : "TestDesign",
+    "url" : "https://github.com/jeroen/TestDesign"
+  },
+  {
     "package" : "NanoMethViz",
     "url" : "https://github.com/jeroen/NanoMethViz"
   },
