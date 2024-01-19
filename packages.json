@@ -9,8 +9,8 @@
     "url" : "https://github.com/jeroen/Rhdf5lib"
   },
   {
-    "package" : "x13binary",
-    "url" : "https://github.com/jeroen/x13binary"
+    "package" : "NanoMethViz",
+    "url" : "https://github.com/jeroen/NanoMethViz"
   },
   {
     "package" : "cubature",
