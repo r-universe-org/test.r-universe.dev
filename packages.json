@@ -14,7 +14,7 @@
   },
   {
     "package" : "x13binary",
-    "url" : " https://github.com/jeroen/x13binary"
+    "url" : "https://github.com/jeroen/x13binary"
   },
   {
     "package" : "NanoMethViz",
@@ -23,10 +23,6 @@
   {
     "package" : "cubature",
     "url" : "https://github.com/jeroen/cubature"
-  },
-  {
-    "package" : "longears",
-    "url" : "https://github.com/jeroen/longears"
   },
   {
     "package" : "mappoly",
