@@ -13,6 +13,10 @@
     "url" : "https://github.com/jeroen/TestDesign"
   },
   {
+    "package" : "x13binary",
+    "url" : " https://github.com/jeroen/x13binary"
+  },
+  {
     "package" : "NanoMethViz",
     "url" : "https://github.com/jeroen/NanoMethViz"
   },
