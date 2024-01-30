@@ -9,6 +9,10 @@
     "url" : "https://github.com/jeroen/Rhdf5lib"
   },
   {
+    "package" : "rjags",
+    "url" : "https://github.com/jeroen/rjags"
+  },
+  {
     "package" : "TestDesign",
     "url" : "https://github.com/jeroen/TestDesign"
   },
