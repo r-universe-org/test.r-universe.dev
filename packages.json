@@ -83,5 +83,9 @@
   {
     "package": "ggsegHO",
     "url": "https://github.com/ggseg/ggsegHO"
+  },
+  {
+    "package": "polars",
+    "url":"https://github.com/jeroen/r-polars"
   }
 ]
