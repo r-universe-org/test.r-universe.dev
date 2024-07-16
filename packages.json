@@ -5,8 +5,8 @@
     "subdir" :  "apis/r"
   },
   {
-    "package" : "Rhdf5lib",
-    "url" : "https://github.com/jeroen/Rhdf5lib"
+    "package" : "data.table",
+    "url" : "https://github.com/jeroen/data.table"
   },
   {
     "package" : "rjags",
