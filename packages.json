@@ -1,91 +1,129 @@
 [
   {
-    "package" : "tiledbsoma",
-    "url" : "https://github.com/jeroen/TileDB-SOMA",
-    "subdir" :  "apis/r"
+    "package": "adbcdrivermanager",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcdrivermanager",
+    "branch": "*release"
   },
   {
-    "package" : "data.table",
-    "url" : "https://github.com/jeroen/data.table"
+    "package": "adbcflightsql",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcflightsql",
+    "branch": "*release"
   },
   {
-    "package" : "rjags",
-    "url" : "https://github.com/jeroen/rjags"
+    "package": "audio.whisper",
+    "url": "https://github.com/bnosac/audio.whisper",
+    "branch": "*release"
   },
   {
-    "package" : "TestDesign",
-    "url" : "https://github.com/jeroen/TestDesign"
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr",
+    "branch": "*release"
   },
   {
-    "package" : "x13binary",
-    "url" : "https://github.com/jeroen/x13binary"
+    "package": "crew",
+    "url": "https://github.com/wlandau/crew",
+    "branch": "*release"
   },
   {
-    "package" : "NanoMethViz",
-    "url" : "https://github.com/jeroen/NanoMethViz"
+    "package": "duckdb",
+    "url": "https://github.com/duckdb/duckdb-r",
+    "branch": "*release"
   },
   {
-    "package" : "cubature",
-    "url" : "https://github.com/jeroen/cubature"
+    "package": "glaredb",
+    "url": "https://github.com/eitsupi/r-glaredb",
+    "branch": "*release"
   },
   {
-    "package" : "mappoly",
-    "url" : "https://github.com/jeroen/MAPpoly"
+    "package": "httpgd",
+    "url": "https://github.com/nx10/httpgd",
+    "branch": "*release"
   },
   {
-    "package" : "audio",
-    "url" : "https://github.com/jeroen/audio"
+    "package": "ichimoku",
+    "url": "https://github.com/shikokuchuo/ichimoku",
+    "branch": "*release"
   },
   {
-    "package" : "Rhtslib",
-    "url" : "https://github.com/jeroen/Rhtslib"
+    "package": "igraph",
+    "url": "https://github.com/igraph/rigraph",
+    "branch": "*release"
   },
   {
-    "package":"luna",
-    "url":"https://github.com/jeroen/luna"
+    "package": "INLA",
+    "url": "https://github.com/inbo/INLA",
+    "branch": "*release"
   },
   {
-    "package":"first90",
-    "url":"https://github.com/jeroen/first90release"
+    "package": "later",
+    "url": "https://github.com/r-lib/later",
+    "branch": "*release"
   },
   {
-    "package":"rJava",
-    "url":"https://github.com/jeroen/rJava"
+    "package": "mirai",
+    "url": "https://github.com/shikokuchuo/mirai",
+    "branch": "*release"
   },
   {
-    "package": "sys",
-    "url": "https://github.com/jeroen/sys"
+    "package": "multitools",
+    "url": "https://github.com/r-multiverse/multitools",
+    "branch": "*release"
   },
   {
-    "package": "gmp",
-    "url": "https://github.com/cran/gmp"
+    "package": "multiverse.internals",
+    "url": "https://github.com/r-multiverse/multiverse.internals",
+    "branch": "*release"
   },
   {
-    "package": "Rmpfr",
-    "url": "https://github.com/r-forge/rmpfr",
-    "subdir": "pkg"
-  },
-  {
-    "package": "jose",
-    "url": "https://github.com/r-lib/jose",
-    "branch" : "*release"
-  },
-  {
-    "package" : "curl",
-    "url" : "https://github.com/jeroen/curl",
-    "branch" : "v4.3.2"
-  },
-  {
-    "package": "stringdist",
-    "url": "https://github.com/markvanderloo/stringdist",
-    "subdir": "pkg"
-  },
-  {
-    "package": "ggsegHO",
-    "url": "https://github.com/ggseg/ggsegHO"
+    "package": "nanonext",
+    "url": "https://github.com/shikokuchuo/nanonext",
+    "branch": "*release"
   },
   {
     "package": "polars",
-    "url":"https://github.com/jeroen/r-polars"
+    "url": "https://github.com/pola-rs/r-polars",
+    "branch": "*release"
+  },
+  {
+    "package": "SBC",
+    "url": "https://github.com/hyunjimoon/SBC",
+    "branch": "*release"
+  },
+  {
+    "package": "secretbase",
+    "url": "https://github.com/shikokuchuo/secretbase",
+    "branch": "*release"
+  },
+  {
+    "package": "stantargets",
+    "url": "https://github.com/ropensci/stantargets",
+    "branch": "*release"
+  },
+  {
+    "package": "string2path",
+    "url": "https://github.com/yutannihilation/string2path",
+    "branch": "*release"
+  },
+  {
+    "package": "targetsketch",
+    "url": "https://github.com/wlandau/targetsketch",
+    "branch": "*release"
+  },
+  {
+    "package": "tidypolars",
+    "url": "https://github.com/etiennebacher/tidypolars/",
+    "branch": "*release"
+  },
+  {
+    "package": "tidytensor",
+    "url": "https://github.com/oneilsh/tidytensor",
+    "branch": "*release"
+  },
+  {
+    "package": "zstdlite",
+    "url": "https://github.com/coolbutuseless/zstdlite",
+    "branch": "*release"
   }
 ]
