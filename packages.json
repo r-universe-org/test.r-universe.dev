@@ -1,5 +1,9 @@
 [
   {
+    "package": "RQuantLib",
+    "url" : "https://github.com/jeroen/rquantlib"
+  },
+  {
     "package": "adbcdrivermanager",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcdrivermanager",
