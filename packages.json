@@ -125,5 +125,13 @@
     "package": "zstdlite",
     "url": "https://github.com/coolbutuseless/zstdlite",
     "branch": "*release"
+  },
+  {
+    "package": "data.table",
+    "url": "https://github.com/cran/data.table"
+  },
+  {
+    "package": "rJava",
+    "url": "https://github.com/cran/rJava"
   }
 ]
