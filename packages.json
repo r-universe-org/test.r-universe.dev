@@ -1,5 +1,14 @@
 [
   {
+    "package": "INLA",
+    "url": "https://github.com/hrue/r-inla",
+    "subdir": "rinla"
+  },
+  {
+     "package": "fmesher",
+     "url": "https://github.com/inlabru-org/fmesher"
+  },
+  {
     "package": "adbcdrivermanager",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcdrivermanager",
@@ -49,11 +58,6 @@
   {
     "package": "igraph",
     "url": "https://github.com/igraph/rigraph",
-    "branch": "*release"
-  },
-  {
-    "package": "INLA",
-    "url": "https://github.com/inbo/INLA",
     "branch": "*release"
   },
   {
