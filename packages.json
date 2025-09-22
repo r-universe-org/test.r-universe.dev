@@ -1,5 +1,13 @@
 [
   {
+    "package": "jsonedit",
+    "url": "https://github.com/r-lib/jsonedit"
+  },
+  {
+    "package": "tomleditjs",
+    "url": "https://github.com/jeroen/tomleditjs"
+  },
+  {
     "package": "INLA",
     "url": "https://github.com/hrue/r-inla",
     "subdir": "rinla"
