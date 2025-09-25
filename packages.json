@@ -4,6 +4,10 @@
     "url": "https://github.com/r-lib/jsonedit"
   },
   {
+    "package": "minisvg",
+    "url": "https://github.com/jeroen/minisvg"
+  },
+  {
     "package": "tomleditjs",
     "url": "https://github.com/jeroen/tomleditjs"
   },
