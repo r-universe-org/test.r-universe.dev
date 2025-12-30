@@ -8,8 +8,8 @@
     "url": "https://github.com/jeroen/minisvg"
   },
   {
-    "package": "tomleditjs",
-    "url": "https://github.com/jeroen/tomleditjs"
+    "package": "toml",
+    "url": "https://github.com/jeroen/toml"
   },
   {
     "package": "INLA",
