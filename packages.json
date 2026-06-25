@@ -10,7 +10,8 @@
   },
   {
     "package": "jsonedit",
-    "url": "https://github.com/r-lib/jsonedit"
+    "url": "https://github.com/r-lib/jsonedit",
+    "noindex" : true
   },
   {
     "package": "minisvg",
